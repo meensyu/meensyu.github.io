@@ -9,7 +9,7 @@
    - "version" (required) - version of this plugin. Must match <version>
      in the plugin.xml file.
    -->
-<plugin id="com.cpst.cpst_ut" url="" version="2.0.0.15">
+<plugin id="com.cpst.cpst_ut" url="https://github.com/meensyu/meensyu.github.io/blob/main/cpst_ut-0.0.2.003.jar" version="0.0.2.003">
 <name>Codeverse</name>
 <vendor email="xuming.zz@bytedance.com">C&B</vendor>
 <description>
