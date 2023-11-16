@@ -1,0 +1,21 @@
+<plugins>
+<!-- 
+  Each <plugin> element (required) describes one plugin in the repository.
+  Attributes:
+   - "id" (required) - used by JetBrains IDEs to uniquely identify
+     a plugin. Must match <id> in the plugin.xml file.
+   - "url" (required) - URL to download the plugin JAR/ZIP file.
+     Must be HTTPS.
+   - "version" (required) - version of this plugin. Must match <version>
+     in the plugin.xml file.
+   -->
+<plugin id="com.cpst.cpst_ut" url="" version="2.0.0.15">
+<name>Codeverse</name>
+<vendor email="xuming.zz@bytedance.com">C&B</vendor>
+<description>
+<![CDATA[  单测助手 <br> <br> ]]>
+</description>
+<idea-version since-build="221"/>
+</plugin>
+<!--  And so on for other plugins...  -->
+</plugins>
